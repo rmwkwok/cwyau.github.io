@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 locale: "zh-HK"
 # minimal_mistakes_skin: dirt
+copyright: 邱忠榮物理治療師
 title: 邱忠榮 | 專業物理治療 | 痛症紓解 | 尖沙咀站旁 | 網上復健運動與自我檢查文章及短片
 masthead_title: 邱忠榮 # 首頁
 subtitle: 香港註冊物理治療師
