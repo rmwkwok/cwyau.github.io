@@ -46,25 +46,25 @@
 }
 
 .whatsapp-text {
-  font-size: 14px;
+  font-size: .75em;
   line-height: 1.2;
-  margin-right: 12px;
+  margin-right: .5em;
   text-align: right;
   font-weight: bold;
 
 }
 
 .whatsapp-icon {
-  font-size: 30px;
+  font-size: 1em;
 }
 
 /* Hide text on very small phones to keep the UI clean */
-/* @media (max-width: 480px) {
+@media (max-width: 480px) {
   .whatsapp-text {
-    display: none;
+    /* display: none; */
   }
-  .whatsapp-float {
+  /* .whatsapp-float {
     padding: 15px;
     border-radius: 50%;
-  }
-} */
+  } */
+}
