@@ -59,7 +59,7 @@
 }
 
 /* Hide text on very small phones to keep the UI clean */
-@media (max-width: 480px) {
+/* @media (max-width: 480px) {
   .whatsapp-text {
     display: none;
   }
@@ -67,4 +67,4 @@
     padding: 15px;
     border-radius: 50%;
   }
-}
+} */
