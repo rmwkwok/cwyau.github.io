@@ -3,11 +3,13 @@ permalink: /treatment/
 search: false
 toc: true
 toc_sticky: true
-title: ""
-tagline: "物理治療項目"
+# tagline:
 header:
   overlay_color: "#333"
   overlay_image: "/assets/images/banner/banner_machine.jpg"
+  title: "物理治療項目"
+title: "物理治療項目 | 手法治療 | 關節鬆動術 | 關節舒整術 | 關筋膜鬆動術 | 乾針炙 | 聚焦式衝擊波 | RF射頻筋膜刀 | 干擾波電療 | 超聲波治療 | 復康運動治療 | 牽引治療 | 冷療壓力治療 | 神經肌肉電刺激治療 | 經皮神經電刺激治療 | 普拉提 | 訂制ICB鞋墊 | 枕頭建議 | Manual Therapy | Mobilization | Manipulation | Myfascial Release | Dry Needling | Shockwave Therapy | Myofascial Release Therapy with Radiofrequency Therapy | Interferential Therapy | Ultrasound Therapy | Rehab Training | Traction Therapy | Cold Compression Therapy | Neuromuscular Electrical Stimulation, NMES | Transcutaneous Electrical Nerve Stimulation, TENS | Pilates"
+description: "邱忠榮物理治療師提供全方位專業治療項目：包括手法治療、乾針炙、聚焦式衝擊波、復康運動訓練等。我們針對頸、腰、膝關節等問題提供針對性方案，並透過超聲波、電療及牽引治療加速組織修復，助您解決痛症，恢復最佳活動能力。我們位於尖沙咀地鐵站旁，歡迎透過電話或 WhatsApp +852 6357 8708 預約諮詢。"
 gcards:
   - title: "手法治療 - 關節鬆動術 | Manual Therapy - Mobilization"
     descr: 由物理治療師以被動、有節奏的精細手法作用於患者的關節，旨在減輕疼痛及增加關節活動度。

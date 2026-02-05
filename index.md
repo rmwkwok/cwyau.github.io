@@ -1,14 +1,12 @@
 ---
+search: false
 layout: splash
 author_profile: true
 header:
   image: /assets/images/banner/home.jpg
   image_description: "物理治療師邱忠榮先生"
-<!-- header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg -->
-excerpt: "excerpt"
+title: "主要 | 最新消息 | 最新短片"
+description: "【物理治療師在線】免費學習正確居家復健運動與自我檢查技巧！我們位於尖沙咀站旁，專注透過個人化物理治療方案紓解各類骨骼肌肉痛症。不論是尋找專業物理治療服務，還是自學健康常識，這裡提供科學、易明的教學影片與文章。我們位於尖沙咀地鐵站旁，歡迎透過電話或 WhatsApp +852 6357 8708 預約諮詢。"
 intro:
   - excerpt: 'Introduction'
 feature_row:

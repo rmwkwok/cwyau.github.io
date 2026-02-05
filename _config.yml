@@ -16,12 +16,13 @@
 locale: "zh-HK"
 # minimal_mistakes_skin: dirt
 copyright: 邱忠榮物理治療師
-title: 邱忠榮 | 專業物理治療 | 痛症紓解 | 尖沙咀站旁 | 網上復健運動與自我檢查文章及短片
+title: "邱忠榮物理治療師 | 尖沙咀地鐵站旁 | 理大手法治療碩士、針灸及正骨專家 | 培康物理治療 | Rehab Motion | 網上健康資訊文章及短片 | WhatsApp 網上預約諮詢 | YouTube | Instagram | Facebook | Threads"
+title_separator: "-"
 masthead_title: 邱忠榮 # 首頁
 subtitle: 香港註冊物理治療師
 # logo: "/assets/images/88x88.png" # masthead logo
 email:
-description: "【物理治療師在線】免費學習正確居家復健運動與自我檢查技巧！我們位於尖沙咀站旁，專注透過個人化物理治療方案紓解各類骨骼肌肉痛症。不論是尋找專業物理治療服務，還是自學健康常識，這裡提供科學、易明的教學影片與文章。馬上點擊，開始您的復健之旅！"
+description: "【物理治療師在線】免費學習正確居家復健運動與自我檢查技巧！我們位於尖沙咀站旁，專注透過個人化物理治療方案紓解各類骨骼肌肉痛症。不論是尋找專業物理治療服務，還是自學健康常識，這裡提供科學、易明的教學影片與文章。歡迎致電或 WhatsApp +852 6357 8708 預約諮詢，由專家為您的健康把關。"
 url: "https://cwyau.github.io"
 baseurl: "/"
 # repository: "username/repo-name"

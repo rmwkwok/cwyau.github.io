@@ -2,11 +2,13 @@
 permalink: /therapy/
 search: false
 classes: wide
-title:
-tagline: "物理治療流程"
+# tagline:
 header:
   overlay_color: "#333"
   overlay_image: "/assets/images/banner/banner_consultation.JPG"
+  title: "物理治療流程"
+title: "物理治療流程 | 一對一專業問診、臨床評估與針對性治療"
+description: "邱忠榮物理治療師為您提供專業透明的物理治療流程：從一對一詳細問診、全身關鍵部位（頸、腰、肩、膝、足踝）的臨床評估，到制定針對性治療方案。由邱忠榮物理治療師主理，確保每位患者都能獲得最精準的診斷與個人化康復建議。我們位於尖沙咀地鐵站旁，歡迎透過電話或 WhatsApp +852 6357 8708 預約諮詢。"
 gcards:
   - title: 問診
     descr: 會與你進行一對一會面，詢問清楚你目前的問題及想改善的地方。

@@ -4,11 +4,13 @@ search: false
 classes: wide
 layout: categories
 author_profile: true
-title:
-tagline: "健康資訊"
+# tagline:
 header:
   overlay_color: "#333"
   overlay_image: "/assets/images/banner/banner_model_waist.png"
+  title: "健康資訊"
 sidebar:
   nav: "blog"
+title: "健康資訊 | 短文章 | YouTube 影片"
+description: "想學習正確的居家復健與痛症自我檢查？邱忠榮物理治療師提供專業健康資訊文章及由他親自示範的 YouTube 教學影片，涵蓋頸、背、腰、手及腳等各部位的痛症、辦公室伸展及自我檢查技巧。立即瀏覽我們的文章與影片，掌握科學復健知識。我們位於尖沙咀地鐵站旁，歡迎透過電話或 WhatsApp +852 6357 8708 預約諮詢。"
 ---
