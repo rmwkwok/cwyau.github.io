@@ -24,6 +24,18 @@
 	width: 15px;
 }
 
+/* New layout that needs to overwides some existing MM styling */
+.layout--full-width-tile .page__hero {
+  margin-bottom: 0 !important;
+}
+.layout--full-width-tile .page__footer {
+  margin-top: 0 !important;
+}
+.layout--full-width-tile #main {
+  max-width: 100%;
+  padding-inline: 0;
+}
+
 @media (min-width: 769px) {
   .glightbox-clean .gprev {
   	left: 30px;
