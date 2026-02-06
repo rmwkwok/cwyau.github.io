@@ -23,20 +23,20 @@ description: "找尖沙咀物理治療？Rehab Motion 培康物理治療坐落�
 </div>
 
 
-#### 查詢或預約 / Inquiry or Appointment
+## 查詢或預約 / Inquiry or Appointment
 
 <i class="fab fa-whatsapp"></i>
 <i class="fa-solid fa-phone"></i>
 +852 6357 8708
 
-#### 地址 / Address
+## 地址 / Address
 
 尖沙咀 河內道5-7 號<br>
 普基商業中心 10樓1001室<br>
 Rm 1001, 10/F, Podium Plaza,<br>
 5-7 Hanoi Road, Tsim Sha Tsui
 
-#### 地鐵 / MTR <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/HK_MTR_logo.svg" width=25px>
+## 地鐵 / MTR <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/HK_MTR_logo.svg" width=25px>
 
 尖沙咀站 N1/N2 出口<br>
 (N1 出口設有升降機)<br>

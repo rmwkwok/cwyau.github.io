@@ -63,7 +63,7 @@
               </div>
               <div class="card-body {% if gcard.image_position == 'left' %}col-md-8{% endif %}">
                 {% if gcard.title %}
-                  <h2 class="gcard-title" id="{{ gcard.title | escape_once }}">{{ gcard.title | escape_once }}</h2>
+                  <h1 class="gcard-title" id="{{ gcard.title | escape_once }}">{{ gcard.title | escape_once }}</h1>
                 {% endif %}
                 {% if gcard.descr %}
                   <div class="gcard-descr">{{ gcard.descr | escape_once }}</div>
