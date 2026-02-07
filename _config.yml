@@ -73,7 +73,10 @@ social:
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+
+# To be consistent with GemFile. Use theme instead of remote_theme
+# remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 
 # Outputting
 permalink: /:categories/:title/

@@ -1,6 +1,11 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# Commented to use Github Action instead of Github Page
+# gem "github-pages", group: :jekyll_plugins
+
+# Added to use Github Action
+gem "jekyll", "~> 4.3"
+gem "minimal-mistakes-jekyll"
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
@@ -13,5 +18,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
-  gem "jekyll-algolia"
+#  gem "jekyll-algolia" # Commented because not used.
 end
