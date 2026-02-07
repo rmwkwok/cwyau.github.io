@@ -91,6 +91,25 @@
   font-weight: 600;
 }
 
+.bento-all-articles {
+  position: absolute;
+  bottom: 15px;
+  right: 20px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: #666; /* Adjust to your theme */
+  transition: color 0.3s ease;
+}
+
+.bento-all-articles:hover {
+  color: #000;
+}
+
+.bento-all-articles i {
+  margin-left: 5px;
+  font-size: 0.8rem;
+}
+
 .bento-grid-video-wrapper {
   position: relative;
   width: 100%;
